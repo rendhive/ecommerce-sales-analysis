@@ -127,12 +127,6 @@ ecommerce-sales-analysis/
 
 ---
 
-## Catatan
-
-Project ini cocok sebagai **portfolio Data Analyst (Remote / Internasional)** karena menunjukkan kemampuan end-to-end: dari data mentah hingga insight bisnis yang relevan.
-
----
-
 ## File Tambahan (Disarankan)
 
 Di bawah ini adalah **konten siap pakai** untuk file utama lain di project ini.
